@@ -13,7 +13,13 @@ Unlike traditional drivetrains, a holonomic drivetrain can move in any direction
 - Independent control of all four wheels
 - Simple, 3D-printable design
 
-## Chassis Design
+## CAD Design
+
+The entire drivetrain was designed in Onshape.
+
+**[View the Holonomic Drivetrain CAD Model on Onshape](https://cad.onshape.com/documents/049db8ad2bf0eaaaff41425a/w/88433df2200c5f68eedd294a/e/e4944a616ac5ba3b38a6a388)**
+
+### Chassis Design
 
 The chassis is designed to hold four TT motors and mecanum wheels in a compact configuration.
 
@@ -29,9 +35,29 @@ The chassis is designed to hold four TT motors and mecanum wheels in a compact c
 | Microcontroller (Arduino, ESP32, etc.) | 1 |
 | Battery / Power Supply | 1 |
 | Jumper Wires | As needed |
+| Brass Inserts | As needed |
 | 3D-Printed Chassis Parts | 1 Set |
 
 **Note:** The motor driver must support four independently controlled DC motors.
+
+## Bill of Materials (BOM)
+
+Below are the listed purchasing costs for some of the components used in this project.
+
+| Item | Qty | Supplier | Cost/Item | Total Cost | Purchase Link |
+|---|---|---|---|---|---|
+| Mecanum Wheel | 1 | AliExpress | $2.58 | $2.58 | [Buy](https://www.aliexpress.us/item/3256810610368555.html) |
+| Brass Inserts | 1 | AliExpress | $7.29 | $7.29 | [Buy](https://www.aliexpress.us/item/3256809460271592.html) |
+| Wires | 1 | AliExpress | $9.39 | $9.39 | [Buy](https://www.aliexpress.us/item/3256812073439998.html) |
+| Estimated Shipping | 1 | — | — | $0.00 | — |
+| **Listed Total** | | | | **$19.26** | |
+
+**Important Notes:**
+- Prices are estimates and may change.
+- The listed total includes only the three priced items above.
+- The complete drivetrain requires four mecanum wheels, two left-handed and two right-handed.
+- Motors, motor driver, microcontroller, power supply, and 3D-printing costs are not included in the listed total.
+- Verify product quantities and compatibility before purchasing.
 
 ## 3D Printing
 
@@ -74,3 +100,7 @@ This makes the drivetrain useful for robots that need precise movement in tight 
 ## Project Goal
 
 This project aims to make holonomic robotics affordable, accessible, and easy to build using common electronic components and 3D-printed parts.
+
+The goal is to provide an accessible platform for students, makers, and robotics enthusiasts to experiment with omnidirectional movement.
+
+**[Explore the CAD Design on Onshape](https://cad.onshape.com/documents/049db8ad2bf0eaaaff41425a/w/88433df2200c5f68eedd294a/e/e4944a616ac5ba3b38a6a388)**
