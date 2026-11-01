@@ -65,11 +65,9 @@ All custom chassis components are designed to be 3D printed.
 
 ### Print Profile
 
-The image below shows the print layout for the chassis components.
+The image below shows the print layout for some of the chassis components.
 
 ![3D Printing Profile](images/Screenshot%202026-10-18%20093518.png)
-
-Print the required parts and assemble them using suitable fasteners.
 
 ## Assembly Instructions
 
