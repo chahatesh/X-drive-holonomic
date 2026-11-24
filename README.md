@@ -4,6 +4,10 @@ A simple, affordable, and easy-to-build 4-wheel holonomic drivetrain using TT mo
 
 Unlike traditional drivetrains, a holonomic drivetrain can move in any direction without turning, making it great for robotics projects.
 
+# For Reviewers
+
+I have all the parts for this project at home, so I don't need anything 3D printed out of house.
+
 ## Features
 
 - Forward and backward movement
